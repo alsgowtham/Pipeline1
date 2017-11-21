@@ -5,4 +5,6 @@ node {
    		echo 'Hello World 2'
    stage 'stage 3'
 		echo 'Hello World 3'
+   stage 'stage 4'
+		echo 'pipeline changed'
 }
